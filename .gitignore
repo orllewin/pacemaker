@@ -1,0 +1,9 @@
+.idea/
+
+# Test files:
+testtracks/
+
+# Pacemaker DBs
+other/music.db
+
+.DS_Store
